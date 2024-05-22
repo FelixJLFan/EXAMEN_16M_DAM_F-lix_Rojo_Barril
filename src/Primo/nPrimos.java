@@ -26,7 +26,7 @@ public class nPrimos {
 		}
 		
 		System.out.println("Nuevo codigo");
-		
+		//
 	}
 		
 
