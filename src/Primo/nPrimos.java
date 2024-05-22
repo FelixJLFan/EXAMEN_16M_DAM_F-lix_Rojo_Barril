@@ -22,6 +22,7 @@ public class nPrimos {
 			System.out.println("es primo");
 		}else {
 			System.out.println("no es primo");
+			//
 		}
 		
 	}
